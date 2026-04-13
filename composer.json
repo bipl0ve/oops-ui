@@ -1,6 +1,5 @@
 {
   "name": "biplove/oops-ui",
-  "version": "1.7",
   "description": "Beautiful, customizable error pages for Laravel applications with zero configuration required",
   "keywords": [
     "laravel",
