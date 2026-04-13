@@ -1,8 +1,8 @@
 # Oops UI - Beautiful Error Pages for Laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/biplove/oops-ui.svg?style=flat-square)](https://packagist.org/packages/biplove/oops-ui)
+<!-- [![Latest Version on Packagist](https://img.shields.io/packagist/v/biplove/oops-ui.svg?style=flat-square)](https://packagist.org/packages/biplove/oops-ui)
 [![Total Downloads](https://img.shields.io/packagist/dt/biplove/oops-ui.svg?style=flat-square)](https://packagist.org/packages/biplove/oops-ui)
-[![License](https://img.shields.io/packagist/l/biplove/oops-ui.svg?style=flat-square)](https://packagist.org/packages/biplove/oops-ui)
+[![License](https://img.shields.io/packagist/l/biplove/oops-ui.svg?style=flat-square)](https://packagist.org/packages/biplove/oops-ui) -->
 
 Beautiful, customizable error pages for Laravel applications with zero configuration required.
 
@@ -86,31 +86,9 @@ php artisan config:clear
 
 ## Documentation
 
-### Interactive Documentation (Next.js)
-A modern Next.js-based documentation site with feedback system is available in the `docs-nextjs/` directory.
-
-**Features:**
-- 📚 Complete documentation
-- 💬 User feedback system (issues, bugs, feature requests)
-- 👨‍💼 Admin dashboard for managing feedback
-- 🗄️ SQLite database
-- 🌙 Dark mode support
-
-**Quick Start:**
-```bash
-cd docs-nextjs
-npm install
-npm run dev
-```
-
-Then visit http://localhost:3000
-
-See `DOCS_NEXTJS_GUIDE.md` for complete setup instructions.
-
-### Static Documentation
 For complete documentation including all features, configuration options, templates, and examples, please visit:
 
-📚 **[Full Documentation](docs/index.html)**
+📚 **[Full Documentation](https://oopsui-docs.netlify.app/)**
 
 ## Testing
 
@@ -131,7 +109,7 @@ php artisan cache:clear
 composer dump-autoload
 ```
 
-For more help, check the [documentation](docs/index.html).
+For more help, check the [documentation](https://oopsui-docs.netlify.app/).
 
 ## License
 
@@ -139,6 +117,6 @@ The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/biplove/oops-ui/issues)
-- **Documentation**: [Full Documentation](docs/index.html)
-- **Source**: [GitHub Repository](https://github.com/biplove/oops-ui)
+- **Issues**: [GitHub Issues](https://github.com/bipl0ve/oops-ui/issues)
+- **Documentation**: [Full Documentation](https://oopsui-docs.netlify.app/)
+- **Source**: [GitHub Repository](https://github.com/bipl0ve/oops-ui)
